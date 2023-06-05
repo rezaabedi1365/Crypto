@@ -2,7 +2,7 @@
 # Bitcoin
 https://github.com/bitcoin/bitcoin.git
 
-# Ehterium
+# Ethereum
 https://github.com/ethereum/go-ethereum.git
 
 # Cardano
